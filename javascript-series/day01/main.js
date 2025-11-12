@@ -38,7 +38,7 @@ console.log("z: ", z); // 110
 4. UNDEFINED
 5. NULL
 6. BIGINT
-
+7. SYMBOL
 */
 
 // NUMBER
